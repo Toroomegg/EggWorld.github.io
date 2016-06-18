@@ -14,6 +14,7 @@
 }
 
 .content{  
+
     border-radius: 50px;
     border: 5px solid #e2d6d6;
     background-color:#f7f7f7;
@@ -76,7 +77,8 @@
 }
 
 .button1 {
-    position:fixed;
+    overflow: auto;
+    position:absolute;
     background-color: #bcb8b2;
     top:200px;
     left: 261px;
@@ -86,7 +88,8 @@
 }
 
 .button2 {
-    position:fixed;
+    overflow: auto;
+    position: absolute;
     background-color: #bcb8b2;
     top:240px;
     left: 261px;
@@ -95,7 +98,8 @@
     border-radius: 3px;
 }
 .button3 {
-    position:fixed;
+    overflow: auto;
+    position: absolute;
     background-color: #bcb8b2;
     top:240px;
     left: 655px;
